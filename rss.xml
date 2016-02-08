@@ -4,14 +4,14 @@
         <description><![CDATA[The Mike Lewis]]></description>
         <link>https://thegrid.ai/mike-lewis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 18:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 20:43:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mike-lewis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Art of Troubleshooting]]></title>
             <description><![CDATA[<article><h1>The Art of Troubleshooting</h1><h2>The Problem</h2><p>Out of nowhere one website started, seemingly randomly, displaying a blank screen as the homepage. When this was first brought to my attention, I did a quick look at the HTML source and confirmed that there was nothing. No errors, no opening and closing tags, just nothing. So I’m getting a blank 200 OK response from the server. Weird.</p></article>]]></description>
             <link>https://thegrid.ai/mike-lewis/the-art-of-troubleshooting/index.html</link>
             <guid isPermaLink="false">b3e4fdb8-a002-4284-ab2d-00f26a96bc9d</guid>
-            <pubDate>Mon, 08 Feb 2016 18:18:12 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 20:42:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Installing]]></title>
