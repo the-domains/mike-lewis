@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mike Lewis]]></title>
-        <description><![CDATA[Mike Lewis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Mike Lewis]]></title>
+        <description><![CDATA[The Mike Lewis]]></description>
+        <link>https://thegrid.ai/mike-lewis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 17:19:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 18:16:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mike-lewis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Installing]]></title>
             <description><![CDATA[<article><h1>Installing</h1><p>With any high traffic or complex site, caching is always going to be a concern. The set-up that I generally use is based around using the pattern deletion functionality provided by Redis. This allows me to cache everything while still easily busting the cache in a fairly granular way.</p></article>]]></description>
-            <link>undefined20519ad3-44cb-49e0-b752-e30b6535de0c/index.html</link>
+            <link>https://thegrid.ai/mike-lewis/20519ad3-44cb-49e0-b752-e30b6535de0c/index.html</link>
             <guid isPermaLink="false">20519ad3-44cb-49e0-b752-e30b6535de0c</guid>
-            <pubDate>Mon, 08 Feb 2016 17:18:43 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 18:16:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
