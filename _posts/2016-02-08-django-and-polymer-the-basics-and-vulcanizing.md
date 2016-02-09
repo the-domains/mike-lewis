@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T21:02:03.949Z'
-dateModified: '2016-02-08T21:01:44.181Z'
+datePublished: '2016-02-09T02:43:46.604Z'
+dateModified: '2016-02-09T02:43:41.203Z'
 title: 'Django and Polymer: The basics and Vulcanizing'
+author: []
+sourcePath: _posts/2016-02-08-django-and-polymer-the-basics-and-vulcanizing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-08-django-and-polymer-the-basics-and-vulcanizing.md
-published: true
 url: django-and-polymer-the-basics-and-vulcanizing/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05456f21-c8f5-46a7-93ff-cdb72200d8c0.jpg)
+
 ## Polymer
 
 If you haven't taken a look at Google's [Polymer][0] and [Material Design][1] yet, you should. If only because Google is pushing for it and that will undoubtedly have some reflection in search rankings.
